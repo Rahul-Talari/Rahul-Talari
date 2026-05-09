@@ -39,32 +39,34 @@ open_to    : AI/ML · Data Engineering · Cloud (AWS, Azure) · Collaborations &
 
 ## 🛠️ Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**⚡ Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**⚡ Core:** `Python` `SQL` `DSA`
+**🔄 Data Pipelines**
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
-**🔄 Data Pipelines:** `Azure Databricks` `Delta Lake` `Snowflake` `PySpark` `DBT` `CDC`
+**☁️ Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**☁️ Cloud:** `AWS (IAM, KMS, S3)` `Azure (Event Hubs, Key Vault, SQL DB)`
+**🤖 AI & Analytics**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**🗄️ Databases:** `Azure SQL` `PostgreSQL` `Neo4j` `Milvus`
+**🚢 DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
-**🤖 AI & Analytics:** `LLM Integration` `RAG Pipelines` `Supervised ML`
-
-**📦 Libraries:** `pandas` `scikit-learn` `LangChain` `LangGraph` `CrewAI`
-
-**🚢 DevOps:** `Docker` `Git` `GitHub Actions` `Azure DevOps`
-
-**📊 Monitoring:** `Splunk` `Databricks AI/BI Dashboards`
-
-</td>
-</tr>
-</table>
+**📊 Monitoring**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
 ---
 
@@ -73,22 +75,24 @@ open_to    : AI/ML · Data Engineering · Cloud (AWS, Azure) · Collaborations &
 ### 🏗️ Enterprise Restaurant Analytics Lakehouse
 > Medallion architecture (Bronze/Silver/Gold) with Delta Lake, CDC ingestion, real-time streaming via Event Hubs, and AI/BI dashboards powered by Databricks Mosaic AI for sentiment analysis.
 
-`Azure Databricks` `Delta Lake` `PySpark` `Azure Event Hubs` `Unity Catalog` `GitHub Actions`
-
----
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### 🌫️ Real-Time Air Quality Data Platform
 > Processes **10M+ records** with automated ELT, Star Schema modeling, and a data quality framework reducing inconsistencies by **95%**. Query performance improved **80%** via dynamic tables.
 
-`Snowflake` `Snowpark` `Streamlit` `GitHub Actions`
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-### 🏥 Intelligent Healthcare Diagnosis System
+### 🏥 [Intelligent Healthcare Diagnosis System](https://github.com/Rahul-Talari/Symptoms_based_disease_prediction)
 > Symptom-based disease diagnosis using LLMs, RAG, Neo4j Knowledge Graphs, and Milvus VectorDB — achieving **97% evaluation performance**.
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-A78BFA?style=flat-square&logo=github)](https://github.com/Rahul-Talari/Symptoms_based_disease_prediction)
-&nbsp; `Python` `Neo4j` `LangChain` `Milvus` `Llama 3.2` `RAG`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
 ---
 
