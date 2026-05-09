@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rahul-talari-903040204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rahultalari737@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=_KMhvS8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://rahul-talari.github.io"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://rahul-talari.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 </div>
